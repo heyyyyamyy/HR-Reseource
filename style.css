@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&display=swap');
+#hero-bg{
+    background-image: url(asset/dylan-gillis-KdeqA3aTnBY-unsplash.jpg);
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-position: center;
+}
+
+#hero-bg{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#logo{
+    width: 150px;
+}
+
+#hero-bg-2{
+    background-color: burlywood;
+}
+
+#hero-bg-3{
+    background-color: #021A32;
+    color: white;
+}
+
+#hero-bg-4{
+    background-color: #F9F9F9;
+}
+
+#footer-bg{
+    background-color: #184a8b;
+    color: white;
+}
+
+#contact{
+    background-color: #021a32;
+}
+
+#contact h1{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.navbar-nav a{
+    font-family: 'Fira Sans', sans-serif;
+    color: black;
+}
+
+#footer-bg a{
+    text-decoration: none;
+    color: white;
+}
